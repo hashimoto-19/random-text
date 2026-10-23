@@ -3,6 +3,7 @@ import heroImg from "./assets/hero.png";
 import reactLogo from "./assets/react.svg";
 import "./App.css";
 import viteLogo from "./assets/vite.svg";
+import viteLogo from "./assets/vite.svg";
 
 function App() {
   const [count, setCount] = useState(0);
